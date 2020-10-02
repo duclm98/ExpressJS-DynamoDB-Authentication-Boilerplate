@@ -20,3 +20,4 @@
 *	Khởi chạy project với môi trường production: npm run production
 
 ## Cấu trúc project
+![Cấu trúc project](https://github.com/minhduc1612112/ExpressJS-DynamoDB-Authentication-Boilerplate/blob/master/documents/ProjectStructure.png)
